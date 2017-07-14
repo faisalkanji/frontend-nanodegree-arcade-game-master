@@ -1,5 +1,7 @@
 # Arcade Game
 
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript.an HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript.
+
 ## Getting Started
 
 1. Open the index.html game in the browser
